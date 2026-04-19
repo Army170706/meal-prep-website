@@ -45,7 +45,7 @@ function pesan(menuName) {
 const menus = [
     { name: "Ayam", icon: "🐔", category: "protein", ingredients: ["4 potong ayam", "1 bungkus Desaku Marinasi"], price: "Rp 25.000" },
     { name: "Ikan ", icon: "🐟", category: "protein", ingredients: ["2 ekor ikan", "1 bungkus Desaku Marinasi"], price: "Rp 15.000" },
-    { name: "Telur Balado", icon: "🥚", category: "protein", ingredients: ["4 butir telur ayam rebus", "3 cabe kriting","3 siung bawang merah","2 siung bawang putih","2 buah tomat","2 lbr daun salam","1 bungkus kecap","2 cabe rawit"], price: "Rp 13.000" },
+    { name: "Telur Balado", icon: "🥚", category: "protein", ingredients: ["4 butir telur ayam rebus", "3 cabe kriting","3 siung bawang merah","2 siung bawang putih","2 buah tomat","2 lbr daun salam","1 bungkus kecap","2 cabe rawit"], price: "Rp 18.000" },
     { name: "Tempe", icon: "🍄", category: "protein", ingredients: ["1 papan tempe", "1 bungkus Desaku Marinasi"], price: "Rp 10.000" },
     { name: "Tahu", icon: "🧀", category: "protein", ingredients: ["1 bungkus tahu", "1 bungkus Desaku Marinasi"], price: "Rp 10.000" },
     { name: "Capcay", icon: "🥦", category: "vegetable", image: "images/capcay.jpeg", ingredients: ["sawi putih", "1 wortel","4 siung bawang merah", "2 siung bawang putih", "3 bakso", "1 bks lada"], price: "Rp 13.000" },
