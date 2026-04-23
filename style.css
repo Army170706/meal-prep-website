@@ -350,6 +350,13 @@ nav a:hover {
     background: #f9f9f9;
 }
 
+/* Specific styling for fish image to show only the fish part */
+.card img[src*="ikan"] {
+    object-fit: cover;
+    object-position: center 30%;
+    height: 180px;
+}
+
 .card h3 {
     margin: 14px 0 8px;
     font-size: 1.35em;
